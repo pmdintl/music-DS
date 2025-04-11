@@ -4,9 +4,9 @@ echo "🚀 Instalando reproductor de música..."
 
 # 1. Instalar dependencias
 echo "📦 Instalando dependencias..."
-#sudo apt update
-#sudo apt install -y python3 python3-pip pulseaudio vlc python3-vlc
-#sudo apt install -y pulseaudio python3-vlc
+sudo apt update
+sudo apt install -y python3 python3-pip pulseaudio vlc python3-vlc
+
 
 # 2. Crear entorno de PulseAudio en consola
 # echo "🔧 Configurando PulseAudio para uso en consola..."

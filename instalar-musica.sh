@@ -121,6 +121,7 @@ if __name__ == "__main__":
             print("No hay pistas de audio para reproducir.")
     except KeyboardInterrupt:
         print("\n🛑 Reproducción interrumpida por el usuario.")
+EOF
 
 chmod +x /home/pi/musica.py
 
